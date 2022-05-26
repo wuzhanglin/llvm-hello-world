@@ -1,2 +1,3 @@
-# llvm-hello-world
-A hello world project for using LLVM
+# LLVM Hello World
+
+A Hello World project for using LLVM.
